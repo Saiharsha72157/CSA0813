@@ -3,7 +3,7 @@ b=2
 c=9
 if a>b&a>c:
     print(a)
-elif b>a&b>c:
+if b>a&b>c:
     print(b)
 else:
     print(c)
