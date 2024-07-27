@@ -1,0 +1,7 @@
+colour = str(input("Enter the colour: "))
+if colour == "green":
+    print("You can go")
+elif colour == "orange":
+    print("You should start")
+else:
+    print("You should wait")
