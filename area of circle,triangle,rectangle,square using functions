@@ -1,0 +1,19 @@
+def area(r):
+    return(area)
+def area(a):
+    return(Area)
+def area(a,b):
+    return(area1,area2)
+r=int(input("enter the radius:"))
+a=int(input("enter the length:"))
+b=int(input("enter the breadth:"))
+area=r*r*3.14
+Area=a*a
+area1=a*b
+area2=1/2*a*b
+print("area of circle is {}".format(area))
+print("Area of square is {}".format(Area))
+print("area rectangle is {}".format(area1))
+print("area triangle is {}".format(area2))
+
+
