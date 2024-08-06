@@ -1,0 +1,5 @@
+d= int(input("Enter a decimal number: "))
+b= bin(d)[2:]
+o= oct(d)[2:]
+print("Binary equivalent: ",b)
+print("Octal equivalent: ",o)
